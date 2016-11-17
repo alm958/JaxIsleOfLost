@@ -2,4 +2,11 @@ img{
     height:200px;
     width:auto;
 }
-body{background-color: green}
+body{
+    background-color:green;
+
+}
+a{
+    font-size: 20px;
+    font-weight: bolder;
+}
